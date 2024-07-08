@@ -8,7 +8,7 @@
     "category": "Sales/Sales",
     "sequence": 1,
     "description": "This module is used to Auto save when the user resizes the tree view column's widths or one2many fields column's width.",
-    # "author": "Caret IT Solutions Pvt. Ltd.",
+    "author": "Anand Shah",
     "depends": [
         "web",
     ],
